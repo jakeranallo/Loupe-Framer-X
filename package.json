@@ -1,0 +1,29 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "2132ad6c-1e6d-45c6-ac44-543dfffd73e6"
+	},
+	"author": "Jake Ranallo",
+	"dependencies": {
+		"@dr-kobros/react-webfont-loader": "^8.0.0",
+		"@framer/benjamin.icon-generator": "^1.8.0",
+		"@types/node": "^10.11.4",
+		"css-animation": "^1.4.1",
+		"rc-tree": "^1.14.6",
+		"react-draggable": "^3.0.5",
+		"react-draggable-component": "^5.0.0",
+		"storm-react-diagrams": "^5.2.1",
+		"styled-components": "^3.4.9",
+		"webfontloader": "^1.6.28"
+	}
+}
